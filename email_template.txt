@@ -1,0 +1,21 @@
+Subject: {subject}
+
+Hi {name},
+
+This is a reminder about {event}. Please let us know if you have any questions.
+
+Best regards,
+[Organisation Name]
+
+OR
+
+Subject : {subject}
+
+Hi {name},
+
+We are happy to have you on board, kindly click on the link below to further your on boarding process
+
+Best regards,
+[company name]
+
+Could be suited to fit specific intentions and integrated with main.py to work with the mailing system 
